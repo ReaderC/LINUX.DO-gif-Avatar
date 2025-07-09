@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Avatar URL Setter</title>
+  <meta charset="UTF-8">
+  <style>
+    body {
+      font-family: sans-serif;
+      width: 300px;
+      padding: 10px;
+    }
+    h3 {
+      margin-top: 0;
+    }
+    input[type="text"] {
+      width: 95%;
+      padding: 5px;
+    }
+    button {
+      margin-top: 10px;
+      padding: 8px 12px;
+      cursor: pointer;
+    }
+    #status {
+      margin-top: 10px;
+      color: green;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h3>设置你的头像地址</h3>
+  <p>请输入你的头像 .png 地址的路径部分:</p>
+  <input type="text" id="avatarUrlInput" placeholder="/user_avatar/linux.do/user/96/1_2.png">
+  <button id="saveButton">保存</button>
+  <div id="status"></div>
+  <script src="popup.js"></script>
+</body>
+</html>
