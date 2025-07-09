@@ -16,6 +16,8 @@
 4.  点击“加载已解压的扩展程序”，并选择本项目的文件夹。
 5.  点击浏览器工具栏上新增的插件图标。
 6.  在弹出窗口中，输入你的头像 `.png` 地址的路径部分 (例如 `/user_avatar/linux.do/yourname/96/12345_2.png`)。
+![image](https://github.com/user-attachments/assets/c9cbb9f5-cacd-414a-9e6b-3fc98d85284e)
+![image](https://github.com/user-attachments/assets/df874913-0b17-4f78-aa39-38a40e380bb7)
 7.  点击“保存”。刷新 `linux.do` 页面即可看到效果。
 
 ---
